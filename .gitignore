@@ -5,3 +5,4 @@ fantasyscifi-full-body-character-concepts.zip
 .ipynb_checkpoints/
 mlruns/
 ckpt.pt
+*.pt
